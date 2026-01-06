@@ -8,8 +8,7 @@ public class class456 {
 		
 		System.out.println(a>b && a>c);
 		System.out.println(a>b ||a>c);
-		System.out.println(!(a>b ||a>c));
-		
+				
 		 
 	}
 
